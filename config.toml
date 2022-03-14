@@ -1,4 +1,4 @@
-baseURL = 'https://dalvik.studio/'
+baseURL = 'https://dalvik-studio.github.io/'
 languageCode = 'en-us'
 title = 'Dalvik Studio'
 theme = 'hugo-ink'
