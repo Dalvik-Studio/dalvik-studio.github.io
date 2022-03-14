@@ -1,0 +1,35 @@
+baseURL = 'https://dalvik.studio/'
+languageCode = 'en-us'
+title = 'Dalvik Studio'
+theme = 'hugo-ink'
+
+[params]
+	subtitle = "Mobile apps, perfected."
+
+	# Optional 64x64 avatar image.
+	avatar = "https://avatars.githubusercontent.com/u/84337466?s=400&u=164f9edd28f0c290f0468a8d8a5d99459250b81c&v=4"
+
+	# Content types to disable Disqus on.
+	disableDisqusTypes = ["page"]
+	
+	featherIconsCDN = true
+
+	mode = "auto" # "dark" or "auto"
+	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
+	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[menu.main]]
+name = "Weyt"
+url = "/weyt"
+weight = 3
