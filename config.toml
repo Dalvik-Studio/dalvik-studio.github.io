@@ -28,8 +28,3 @@ weight = 1
 name = "About"
 url = "/about"
 weight = 2
-
-[[menu.main]]
-name = "Weyt"
-url = "/weyt"
-weight = 3
